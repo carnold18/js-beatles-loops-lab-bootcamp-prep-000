@@ -16,6 +16,6 @@ const facts = [ "He was the last Beatle to learn to drive",
 
 function johnLennonFacts(facts) {
   while (facts[i] > 0) {
-    
+    var excl = "!!!"
   }
 }
