@@ -23,11 +23,10 @@ function johnLennonFacts(facts) {
 
 function iLoveTheBeatles(i) {
   var newArray3 = [];
-  let parameter = 15;
   do {
     newArray3.push("I love the Beatles!");
     return newArray3;
-    
+    i++;
   }
   while ();
 }
