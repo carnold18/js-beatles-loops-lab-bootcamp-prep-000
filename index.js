@@ -16,11 +16,13 @@ const facts = [
   "He hated the sound of his own voice"
   ];
 
-function johnLennonFacts(i) {
+function johnLennonFacts(facts) {
   var newArray2 = [];
-  while (facts[i] > 0) {
-    return newArray2[i]+"!!!";
+  while (facts[i] ) {
+    newArray2[i]+"!!!";
+    i++;
   }
+  return newArray2;
 }
 
 function iLoveTheBeatles(i) {
