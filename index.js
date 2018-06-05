@@ -16,7 +16,6 @@ const facts = [ "He was the last Beatle to learn to drive",
 
 function johnLennonFacts(i) {
   var newArray2 = [];
-  var i = 0;
   while (facts[i] > 0) {
     return newArray2[i]+"!!!";
   }
@@ -24,7 +23,6 @@ function johnLennonFacts(i) {
 
 function iLoveTheBeatles(i) {
   var newArray3 = [];
-  var i = 0;
   do {
     newArray3.push("I love the Beatles!");
     i++;
