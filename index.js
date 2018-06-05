@@ -17,12 +17,11 @@ const facts = [
   ];
 
 function johnLennonFacts(facts) {
-  var newArray2 = [];
-  while (facts[i] ) {
-    newArray2[i]+"!!!";
+  while (i < facts.length ) {
+    facts[i]+"!!!";
     i++;
   }
-  return newArray2;
+  return facts;
 }
 
 function iLoveTheBeatles(i) {
