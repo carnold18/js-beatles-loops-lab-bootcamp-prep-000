@@ -14,7 +14,7 @@ const facts = [ "He was the last Beatle to learn to drive",
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice"];
 
-function johnLennonFacts(facts) {
+function johnLennonFacts(i) {
   var newArray2 = [];
   while (facts[i] > 0) {
     return newArray2[i]+"!!!";
