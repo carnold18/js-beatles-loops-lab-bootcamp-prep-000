@@ -26,7 +26,7 @@ function iLoveTheBeatles(i) {
   let parameter = 15;
   do {
     newArray3.push("I love the Beatles!");
-  }
-  return newArray3;
+  }return newArray3;
+  
   while ();
 }
