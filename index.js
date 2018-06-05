@@ -19,6 +19,7 @@ const facts = [
 function johnLennonFacts(facts) {
   var i = 0;
   while (i < facts.length ) {
+    facts.splice(i,1,facts[i]+!!!)
     facts[i]+"!!!";
     i++;
   }
