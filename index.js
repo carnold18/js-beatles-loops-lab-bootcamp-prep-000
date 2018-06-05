@@ -19,10 +19,10 @@ const facts = [
 function johnLennonFacts(facts) {
   var i = 0;
   while (i < facts.length ) {
-    facts[i]+"!!!";
+    newFacts = facts[i]+"!!!";
     i++;
   }
-  return facts;
+  return newFacts;
 }
 
 function iLoveTheBeatles(i) {
