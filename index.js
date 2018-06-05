@@ -15,7 +15,16 @@ const facts = [ "He was the last Beatle to learn to drive",
   "He hated the sound of his own voice"];
 
 function johnLennonFacts(facts) {
+  var newArray2 = [];
   while (facts[i] > 0) {
-    var excl = "!!!"
+    return newArray2[i]+"!!!";
   }
+}
+
+function iLoveTheBeatles(i) {
+  var newArray3 = [];
+  do {
+    newArray3.push("I love the Beatles!");
+  }
+  while (i < 15);
 }
